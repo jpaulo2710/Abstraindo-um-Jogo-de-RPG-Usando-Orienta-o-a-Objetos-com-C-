@@ -1,0 +1,8 @@
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\bin\Debug\JogoDeRPG.exe.config
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\bin\Debug\JogoDeRPG.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\bin\Debug\JogoDeRPG.pdb
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\obj\Debug\JogoDeRPG.csproj.AssemblyReference.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\obj\Debug\JogoDeRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\obj\Debug\JogoDeRPG.csproj.CoreCompileInputs.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\obj\Debug\JogoDeRPG.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\JogoRPG\JogoDeRPG\JogoDeRPG\obj\Debug\JogoDeRPG.pdb
